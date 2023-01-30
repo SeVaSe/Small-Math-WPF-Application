@@ -1,0 +1,16 @@
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\bin\Debug\ptpm_pr1.exe.config
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\bin\Debug\ptpm_pr1.exe
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\bin\Debug\ptpm_pr1.pdb
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\ptpm_pr1.csproj.AssemblyReference.cache
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\ptpm_pr1.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\MainWindow.g.cs
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\App.g.cs
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\ptpm_pr1_MarkupCompile.cache
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\ptpm_pr1_MarkupCompile.lref
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\MainWindow.baml
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\ptpm_pr1.g.resources
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\ptpm_pr1.Properties.Resources.resources
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\ptpm_pr1.csproj.GenerateResource.cache
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\ptpm_pr1.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\ptpm_pr1.exe
+D:\VisualStudio_Projects\C#\WPF\ptpm_pr1\ptpm_pr1\obj\Debug\ptpm_pr1.pdb
